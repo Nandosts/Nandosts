@@ -1,7 +1,5 @@
 # Olá! Eu me chamo Fernando Melo
 
-[![Visitas](https://badges.pufler.dev/visits/nandosts/nandosts)](https://badges.pufler.dev)
-
 ## Sobre:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -38,7 +36,6 @@ https://www.linkedin.com/pulse/como-criar-badges-figurinhas-personalizadas-githu
 ## Estatísticas
 
 <p align="center">
-  <a href="https://github.com/Smylle3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandosts&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=30,354b45,308472&title_color=fff&text_color=fff&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandosts&layout=compact&langs_count=7&theme=synthwave&bg_color=30,354b45,308472&title_color=fff&text_color=fff&locale=pt-br"/>
 </p>
