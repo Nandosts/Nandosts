@@ -7,7 +7,7 @@
 
 I'm a developer, studying and working since March 2020.
 
-I'm studying computer engineering at University of Brasilia (UnB), and mainly works with website and mobile development.
+I mainly works with web development, now in Connectere, with ruby on rails.
 
 As hobbies, I like to play video games (especially fighting games), watch series and anime and write, in my spare time.
 
