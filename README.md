@@ -3,7 +3,7 @@
 ## About:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=308472&vCenter=true&width=800&lines=Web+and+mobile+developer;Computers+engineering+student+at+University+of+brasilia;Post-junior+at+junior+company+Struct">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=308472&vCenter=true&width=800&lines=Web+and+mobile+developer;Analysis+and+development+of+Software">
 
 I'm a developer, studying and working since March 2020.
 
