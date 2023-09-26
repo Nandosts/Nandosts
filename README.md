@@ -43,7 +43,8 @@ https://www.linkedin.com/pulse/como-criar-badges-figurinhas-personalizadas-githu
 <br />
 
 ## 100 Days of Code
-<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=sts_nando">
+<!-- Siga este repo para saber como implementar no seu perfil também: https://github.com/cherryramatisdev/100-dias-de-codigo-github-readme -->
+<a target="_blank" href="https://twitter.com/search?q=(from%3ASts_Nando)%20(%23100diasdecodigo)&src=typed_query&f=live">
   <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=sts_nando" width="450" height="195" alt="Progresso 100 dias de codigo">
 </a>
 
