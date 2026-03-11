@@ -1,37 +1,31 @@
-# Hello! My name is Fernando Melo
+# Hello! My name is Fernando Melo 👋
 
 ## About:
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=308472&vCenter=true&width=800&lines=Web+and+mobile+developer;Analysis+and+development+of+Software">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=308472&vCenter=true&width=800&lines=Software+Engineer;Fullstack+Developer;AI+%26+RAG+Integrations;Ruby+on+Rails+Specialist">
 
-I'm a developer, studying and working since March 2020.
+I'm a Software Engineer with over 5 years of experience building scalable web systems and high-performance applications. I currently live in Belo Horizonte, MG.
 
-I mainly works with web development, now in Connectere, with ruby on rails.
+Currently, I work as a Software Engineer at Connectere Agrogestão, taking end-to-end ownership of feature development in a Ruby on Rails monolith. Recently, my focus has expanded to implementing AI solutions (RAG, Embeddings, LLMs) and optimizing system performance.
 
-As hobbies, I like to play video games (especially fighting games), watch series and anime and write, in my spare time.
+When I'm offline, you can find me playing video games (especially *The Bazaar* and fighting games), or simply unwinding with good music, a cold beer, or a glass of wine.
 
 ## Main technologies
 
-[![svelte logo](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)](#)
-[![react logo](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](#)
 [![logo ruby ​​on rails](https://img.shields.io/badge/Ruby--on--Rails-D30001?style=flat&logo=rubyonrails&logoColor=white)](#)
-[![ionic logo](https://img.shields.io/badge/Ionic-488AFF?style=flat&logo=ionic&logoColor=white)](#)
-[![logo react native](https://img.shields.io/badge/React--Native-61DAFB?style=flat&logo=react&logoColor=20232A)](#)
-[![html5 logo](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)](#)
-[![css3 logo](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)](#)
-[![sass logo](https://img.shields.io/badge/SASS-BF4080?&style=flat&logo=sass&logoColor=white)](#)
 [![javascript logo](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 [![typescript logo](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](#)
+[![react logo](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](#)
+[![svelte logo](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)](#)
+[![logo react native](https://img.shields.io/badge/React--Native-61DAFB?style=flat&logo=react&logoColor=20232A)](#)
+[![ionic logo](https://img.shields.io/badge/Ionic-488AFF?style=flat&logo=ionic&logoColor=white)](#)
 [![mysql logo](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)](#)
 [![postgres logo](https://img.shields.io/badge/PostgreSQL-336781?style=flat&logo=PostgreSQL&logoColor=white)](#)
-[![logo heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)](#)
+[![redis logo](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](#)
+[![aws logo](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](#)
+[![openai logo](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)](#)
 [![logo docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
 [![github logo](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](#)
-[![gitlab logo](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](#)
-
-<!-- Badges created from the following tutorial:
-https://www.linkedin.com/pulse/como-criar-badges-figurinhas-personalizadas-github-giacomelli/ -->
 
 ## Statistics
 
