@@ -6,7 +6,7 @@
 
 I'm a Software Engineer with over 5 years of experience building scalable web systems and high-performance applications. I currently live in Belo Horizonte, MG.
 
-Currently, I work as a Software Engineer at Connectere Agrogestão, taking end-to-end ownership of feature development in a Ruby on Rails monolith. Recently, my focus has expanded to implementing AI solutions (RAG, Embeddings, LLMs) and optimizing system performance.
+Currently, I work as a Software Engineer, taking end-to-end ownership of feature development in a Ruby on Rails monolith. Recently, my focus has expanded to implementing AI solutions (RAG, Embeddings, LLMs) and optimizing system performance.
 
 When I'm offline, you can find me playing video games (especially *The Bazaar* and fighting games), or simply unwinding with good music, a cold beer, or a glass of wine.
 
